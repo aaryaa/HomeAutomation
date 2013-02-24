@@ -36,10 +36,6 @@ Currently for programmers only (you have to compile it yourself), but I will rel
 - Change lights on sound (disco mode)
 - Change lights on tv (ambilight mode)
 
-Published under GPLv3, and it will cost you $ 0,00.
-
-Currently on GitHub: https://github.com/xinix00/HomeAutomation
-
 Requires referenced libs:
 - gson 2.2.2
 - apache http client: 4.2.3
